@@ -1,0 +1,7 @@
+The style is handsome which is a perfect match for the NBA style.
+The features are pretty focused. It can be extended and embeded into a complete app. This is great.
+The code is well documented and organized in the appropriate folder.
+Implemented 6 components of React and much CRUD of MongoDB.
+I have some small suggestions for the web: You might need to change your favicon for your own instead of a React favicon :). I think the voting should do some valid check since the codes now allow negative number. I guess a player cannot have minus-number voting. LOL
+
+In all, it is gorgeous. 👍 Good start for MERN app.
